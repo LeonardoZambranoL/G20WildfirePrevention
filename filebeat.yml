@@ -1,0 +1,15 @@
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - 'C:\Users\harm\Desktop\CleanedData\CleanedData.csv'
+  tags: ["filtered_data"]
+
+- type: log
+  enabled: true
+  paths:
+    - 'C:\Users\harm\Desktop\CleanedData\final_data.csv'
+  tags: ["final_data"]
+
+output.logstash:
+  hosts: ["192.168.140.19:5044"]

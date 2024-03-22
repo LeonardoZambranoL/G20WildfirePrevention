@@ -1,0 +1,11 @@
+Burned Area Mapping: A geographical representation of the burned areas. The map could highlight burned regions, and users could select a date range to see the affected regions during that time.
+
+Time-Series Analysis: Graphs could show the day-by-day or month-by-month progression of burned areas, helping identify trends and peak burning periods.
+
+Vegetation Impact: Show the before-and-after state of vegetation in affected areas. This could also be evolved into a vegetation recovery tracker.
+
+Burn Radius: A dashboard component that represents the spreading radius of each fire over time.
+
+Fire Frequency: Show a count of the number of fires detected over time.
+
+Comparative Analysis: Compare the burn data of different regions, different vegetation types, or the same location over different periods.
