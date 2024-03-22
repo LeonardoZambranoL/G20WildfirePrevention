@@ -1,0 +1,2 @@
+The frontend is hosted on: https://g20-wildfire.vercel.app/
+The Repository can be found at: https://github.com/LeonardoZambranoL/G20WildfirePreventionFrontEnd
